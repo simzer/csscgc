@@ -1,0 +1,42 @@
+MONObirinth - the straight forward labirinth game
+Contestant for the CSSCGC 2009
+
+BRIEF DESRIPTION
+
+You have enough of extremly hard - impossible mission games?
+This game designed specially for you. 
+You have to shepherd the game character 'Mucho'
+the wingless mutant half-a-fly through the labirinth.
+But don't be afraid, there are no enemies, no time limit,
+no ticky traps, and if it is not enough, no junctions at all
+since its a one-way-labirint.
+So its only up to you and your patience. If you have time, the
+win is guaranteed. 
+
+FEATURES:
+64 different level
+more than 2 hour play time
+special effect - sprite flash
+
+MINIMUM SYSTEM REQUIREMENTS:
+- 16 kByte RAM
+- 6.75 kByte VideoRAM
+- 3.5 MHz CPU speed (sorry C= users)
+- 11 kByte HDD/FDD/TAP
+- aaaaand Z80 processor
+
+AUTHOR
+laszlo.simon@gmail.com
+
+DEVELOPMENT BACKGROUND
+
+The game is written in C and compiled with z80dk zcc compiler on linux.
+The source is distributed also with the game package.
+I haven't found any sprite editor yet on linux so the sprites designed
+in text editor (sci-te) and converted to C code data via perl script 
+(also part of the package 'spt2c.pl', see 'spt2c/readme' for more info). 
+The tap file tested in Fuse (for linux).
+
+CHEATS
+
+Press 'g'(activates Ghost mode) and the walk through the walls.
