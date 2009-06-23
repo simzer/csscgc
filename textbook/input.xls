@@ -1,0 +1,21 @@
+1	Monty Python's Argument Clinic Textgame.\nmade for the 2009 CSSCGC competition\n\nby a text game generator script\nwhich made by L.Simon\nwho made by ...\n\nWell, lets begin instead. You are in the argument clinic. You paid for a 5 min agrument just now.	2		
+2	You open the door and ask:\n- Is this the right room for an argument?\nMr. Cleese is sitting at the desk and answer:-I've told you once.\n\nWell, this is odd, becouse he has not. What are you say?\n1. No you haven't.\n2. When?\n3. Ok, I know the sketch, he just want me to contradict. 	3	4	5
+3	Mr. Cleese say:\n-Yes I have.\n\nWhat are you say?\n1. No you haven't.\n2. Yes you have\n3. When?	3	6	4
+5	Oh, you ruined the sketch. 			
+6	Mr. Cleese disagree:\n-No I have not.\n\nWhat are you say?\n1. No you haven't.\n2. Yes you have\n3. When?	3	6	4
+4	- Just now! - Mr. Cleese's reply.\n\nNow what?\n1. No you didn't.\n2.When?\n3. I knew he will say this. I want a MP. and a holy grail game instead.	7	4	5
+7	Mr. Cleese:\n- Yes I did!\n\nAnswer!:\n1. No you didn't\n2. You did not!\n3. Didn't	7	9	8
+8	- Did.\n\nWhat can you say:\n1. No you didn't\n2. You did not!\n3. Didn't	7	9	8
+9	- I'm sorry, is this a five minute argument, or the full half hour? - Ask Mr. Cleese suddenly.\n\nYou may answer:\n1. Oh ... Just a five-minute one.\n2. Oh ... It's half an hour.	10	11	
+10	- Fine. Thank you. Anyway, I did. - says Mr. Cleese.\n\nYou can answer:\n1. didn't\n2. You did not.\n3. You most certainly did not.	12	13	14
+11	- DON'T GIVE ME THAT, YOU SNOTTY-FACED HEAP OF PARROT DROPPINGS! SHUT YOUR FESTERING GOB, YOU TIT! YOUR TYPE REALLY MAKES ME PUKE, YOU PERVERT! - shout Mr. Champman from the abuse room.	10		
+12	Mr. Cleese:\n- Yes I did!\n\nAnswer!:\n1. didn't\n2. You did not.	15	13	
+13	Mr. Cleese is arguing:\n- Yes I did.\n\nSay:\n1. didn't\n2. You did not.\n3. You most certainly did not.	12	13	14
+14	- Now, let's get one thing quite clear. I most definitely told you! - Mr. Cleese says.\n\nSomething to answer?\n1. didn't\n2. You did not.\n3. You most certainly did not.	12	13	14
+15	Mr. Cleese:\n- Yes I did!\n\nAnswer!:\n1. didn't\n2. You did not.\n3. You most certainly did not.	12	16	14
+16	Mr. Cleese can not stop:\n- Yes I did.\n\nYou may answer:\n1. Look, this isn't an argument.\n2. You did not.	17	15	
+17	Yes it is. - he says.\n\nYou say:\n1. No it isn't, it's just contradiction.\n2. No it isn't.	18	17	
+18	No it isn't. - Mr. Cleese replies.\n\nNow you can say:\n1. Yes, It is.\n2.It is. You just contradicted me. 	18	19	
+19	Mr. Cleese: \n- No I didn't.\n\nHow you say?\n1.Ooh, you did!\n2. Yes you did.\n3. You did, just then.	20	20	20
+20	Mr.Cleese: - No, no, no, no, no.\nYou:       - You did, just then.\nMr.Cleese: - No, nonsense!\nYou:      - Oh look, this is futile.\n	21
+21	Congratulation! You Win...\n...another round with the game.
