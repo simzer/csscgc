@@ -1,0 +1,20 @@
+Hi Chris,
+
+It's no problem at all. Actually you were quiet fast compared to the 
+host of CGC2009 :), and of course it can't stop me flooding the CSSCGC2010.
+If I may prove it: 
+You can find my third submission attached to the mail. It is a turn based
+multiplayer game called Rock/Paper/Scrissors/Lizard/Spock. Its original is
+invented by <Sam Kass> and popularized by the american sitcom Big Bang Theory. 
+The game is implemented in C and compiled with Z88dk again. 
+I used Gimp and its handy "C source" output format for the "visual design".
+
+Note: the color clash at the bottom of spocks hand is not an intended bug.
+It is a real spontanious crap, since accidentally I used 10 pixel grid 
+instead of 8 for aligning the graphical elements. 
+
+Now I'm out of CGC entry ideas, but I surely will come up with at least one 
+more before the end of the year.
+
+Best regards,
+Laszlo

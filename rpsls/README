@@ -1,0 +1,32 @@
+
+              ROCK/PAPER/SCRISSORS/LIZARD/SPOCK 
+                Turn based multi-player game
+                     CSSCGC2010 EDITION 
+                        by L. Simon
+         
+RPSLS is an improved rock-paper-scrissors game invented by Sam Kass.
+
+Game rules:
+
+  Scrissors cuts Paper covers Rock crushes Lizard poisons Spock     
+  smashes Scrissors decapitates Lizard eats Paper disproves Spock     
+  vaporizes Rock of course crushes Scrissors.     
+         
+Game Controls:
+
+  Player 1 :
+    A - Lizard
+    W - Rock        
+    D - Paper       
+    X - Scrissors   
+    Z - Spock
+    
+  Player 2 :
+    H - Lizard
+    U - Rock
+    K - Paper
+    M - Scrissors
+    N - Spock
+    
+  Start game: 0
+
